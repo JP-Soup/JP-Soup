@@ -2,7 +2,7 @@
 
 <h5>Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a></h5>
 
-<h3 align="center">Hi, there's info about me below 😀</h3>
+<h3 align="center">Soupy facts below 😀</h3>
 
 <p align="left">🔭 I’m currently working on: a housing marketplace app </p>
 <p align="left">🌱 I’m currently learning: TypeScript </p>
