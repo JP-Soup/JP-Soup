@@ -16,7 +16,7 @@
 <h3 align="left">Courses taken:</h3>
 
  <p align="left">
-<a href="https://www.udemy.com/course/react-front-to-back-2022/"><h5>React Front To Back 2022</h5></a>
+<a href="https://www.udemy.com/course/react-front-to-back-2022/">React Front To Back 2022</a>
  </p>
 
 Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a>
