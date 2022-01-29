@@ -15,7 +15,7 @@
 
 <h3 align="left">Courses taken:</h3>
 
-<a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
 
 <a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
 
