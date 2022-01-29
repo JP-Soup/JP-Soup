@@ -15,12 +15,18 @@
 
 <h3 align="left">Courses taken:</h3>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
+<a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
 
 <a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
 
+<a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2022: From Zero to Expert</a>
+
 <a href="https://www.udemy.com/course/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a>
 
+<a href="https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/">The Modern Flexbox, Grid, Sass & Animations Developer Course</a>
+
+<h3 align="left">Freecodecamp certification:</h3>
+<a href="https://www.freecodecamp.org/certification/-soup/responsive-web-design">Responsive Web Design</a>
 
 
 Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a>
