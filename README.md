@@ -1,4 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-Soup&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a>
 
 <h3 align="center">A human obsessed with talking to machines 😀</h3>
