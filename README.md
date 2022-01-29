@@ -19,13 +19,17 @@ Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-
 
 <a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
 
-<a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
+<a href="https://www.udemy.com/course/react-redux/">Modern React with Redux</a>
 
 <a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2022: From Zero to Expert</a>
 
 <a href="https://www.udemy.com/course/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a>
 
 <a href="https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/">The Modern Flexbox, Grid, Sass & Animations Developer Course</a>
+
+<a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
+
+<a href="https://www.udemy.com/course/complete-python-bootcamp/">2022 Complete Python Bootcamp From Zero to Hero in Python</a>
 
 <h3 align="left">Freecodecamp certification:</h3>
 <a href="https://www.freecodecamp.org/certification/-soup/responsive-web-design">Responsive Web Design</a>
