@@ -15,8 +15,10 @@
 
 <h3 align="left">Courses taken:</h3>
 
-<h4 align="left"><a href="https://www.udemy.com/course/react-front-to-back-2022/">React Front To Back 2022</a></h4>
+<a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
 <p align="left">Learn modern React by building 4 projects including a Firebase 9 app and a full stack MERN app</p>
  
+<a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
+<p align="left">Master Node by building a real-world RESTful API and web app (with authentication, Node.js security, payments & more)</p>
 
 Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a>
