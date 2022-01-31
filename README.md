@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JP-Soup&hide=contribs,stars&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h5>Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats">github-stats</a></h5>
+<h5>Github stats provided by: <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer">github-stats</a></h5>
 
 <h3 align="center">Souper awesome info below, careful, it's hot! 😀</h3>
 
@@ -17,22 +17,22 @@
 
 <h3 align="left">Courses taken on Udemy:</h3>
 
-<a href="https://www.udemy.com/course/react-front-to-back-2022">React Front To Back 2022</a>
+<a href="https://www.udemy.com/course/react-front-to-back-2022" target="_blank" rel="noreferrer">React Front To Back 2022</a>
 
-<a href="https://www.udemy.com/course/react-redux/">Modern React with Redux</a>
+<a href="https://www.udemy.com/course/react-redux/" target="_blank" rel="noreferrer">Modern React with Redux</a>
 
-<a href="https://www.udemy.com/course/the-complete-javascript-course/">The Complete JavaScript Course 2022: From Zero to Expert</a>
+<a href="https://www.udemy.com/course/the-complete-javascript-course/" target="_blank" rel="noreferrer">The Complete JavaScript Course 2022: From Zero to Expert</a>
 
-<a href="https://www.udemy.com/course/advanced-javascript-concepts/">JavaScript: The Advanced Concepts</a>
+<a href="https://www.udemy.com/course/advanced-javascript-concepts/" target="_blank" rel="noreferrer">JavaScript: The Advanced Concepts</a>
 
-<a href="https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/">The Modern Flexbox, Grid, Sass & Animations Developer Course</a>
+<a href="https://www.udemy.com/course/the-modern-flexbox-grid-sass-animations-developer-course/" target="_blank" rel="noreferrer">The Modern Flexbox, Grid, Sass & Animations Developer Course</a>
 
-<a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
+<a href="https://www.udemy.com/course/nodejs-express-mongodb-bootcamp" target="_blank" rel="noreferrer">Node.js, Express, MongoDB & More: The Complete Bootcamp 2022</a>
 
-<a href="https://www.udemy.com/course/complete-python-bootcamp/">2022 Complete Python Bootcamp From Zero to Hero in Python</a>
+<a href="https://www.udemy.com/course/complete-python-bootcamp/" target="_blank" rel="noreferrer">2022 Complete Python Bootcamp From Zero to Hero in Python</a>
 
 <h3 align="left">Freecodecamp certification:</h3>
-<a href="https://www.freecodecamp.org/certification/-soup/responsive-web-design">Responsive Web Design</a>
+<a href="https://www.freecodecamp.org/certification/-soup/responsive-web-design" target="_blank" rel="noreferrer">Responsive Web Design</a>
 
 
 
