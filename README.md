@@ -4,7 +4,7 @@
 
 <h3 align="center">Souper awesome info below, careful, it's hot! 😀</h3>
 
-<p align="left">🔭 I’m currently working on: a housing marketplace app </p>
+<p align="left">🔭 I’m currently working on: an online shopping app </p>
 <p align="left">🌱 I’m currently learning: TypeScript </p>
 <p align="left">💬 Ask me about: React, JavaScript </p>
 <p align="left">⚡ Fun fact: I hold a MA Research Methodology - Sociology & Social Policy</p>
