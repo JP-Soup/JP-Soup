@@ -1,8 +1,8 @@
 <h3 align="center">Souper awesome info below, careful, it's hot! 😀</h3>
 
-<p align="left">🔭 I’m currently working on: NextJS shopping app </p>
-<p align="left">🌱 I’m currently learning: NextJS & MongoDB Stack </p>
-<p align="left">💬 Ask me about: React, JavaScript, NextJS </p>
+<p align="left">🔭 I’m currently building a shop front website for a small computer company based in the UK</p>
+<p align="left">🌱 I’m currently learning: NextJS13 </p>
+<p align="left">💬 Ask me about: React, JavaScript, NextJS, Firebase </p>
 <p align="left">⚡ Fun fact: I hold a MA Research Methodology - Sociology & Social Policy</p>
 
 <h3 align="left">Languages and Tools:</h3>
