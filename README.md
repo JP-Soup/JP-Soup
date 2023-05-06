@@ -1,4 +1,4 @@
-<h3 align="center">Souper awesome info below, careful, it's hot! 😀</h3>
+<h3 align="center">Hi, I'm JP 😀</h3>
 
 <p align="left">🔭 I’m currently building a shop front website for a small computer company based in the UK</p>
 <p align="left">🌱 I’m currently learning: NextJS13 </p>
