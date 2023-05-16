@@ -1,4 +1,4 @@
-![alt text](https://github.com/JP-Soup/JP-Soup/blob/main/bblackliquiddrip.png?raw=true)
+![alt text](https://raw.github.com/JP-Soup/JP-Soup/blob/master/bblackliquiddrip.png?sanitize=true)
 
 <h3 align="center">Hi, I'm JP 😀</h3>
 
