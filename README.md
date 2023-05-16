@@ -1,3 +1,5 @@
+![alt text](https://github.com/JP-Soup/JP-Soup/blob/main/bblackliquiddrip.png?raw=true)
+
 <h3 align="center">Hi, I'm JP 😀</h3>
 
 <p align="left">🔭 I’m currently building a shop front website for a small computer company based in the UK</p>
